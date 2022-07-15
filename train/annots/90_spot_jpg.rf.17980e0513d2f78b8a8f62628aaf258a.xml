@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>90_spot_jpg.rf.17980e0513d2f78b8a8f62628aaf258a.jpg</filename>
+	<path>90_spot_jpg.rf.17980e0513d2f78b8a8f62628aaf258a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>276</xmax>
+			<ymin>181</ymin>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>
